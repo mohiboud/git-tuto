@@ -1,0 +1,25 @@
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #871966;
+    border-color: #871966;
+}
+.btn-outline-success {
+    color: #871966;
+    border-color: #871966;
+}
+#navbarNavDropdown {
+margin-left: 20%;    }
+#b1{
+
+}
+#div1{
+    top: 0;
+    right:0;
+    left:0;
+position:fixed ;}
+#Home{
+    margin-top: 100px;
+}
+h2 {
+    text-align: center;
+}
