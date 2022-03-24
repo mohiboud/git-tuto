@@ -8,9 +8,14 @@
     border-color: #871966;
 }
 #navbarNavDropdown {
-margin-left: 20%;    }
-#b1{
-
+margin-left: 15%;    }
+.c2{
+    color: #fff;
+    background-color: #871966c9;
+}
+.c2:hover{
+    color: #fff;
+    background-color: #871966;
 }
 #div1{
     top: 0;
@@ -18,8 +23,9 @@ margin-left: 20%;    }
     left:0;
 position:fixed ;}
 #Home{
-    margin-top: 100px;
+    background-color: ghostwhite;
 }
+p{text-align: justify;}
 h2 {
     text-align: center;
 }
